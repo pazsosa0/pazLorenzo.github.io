@@ -1,0 +1,36 @@
+h1 {
+
+        font-size: 30px; /*Font-size cambia tamanio de letra */ 
+        font-family: sans-serif;
+        font-weight: bold;
+        color : rgb(107, 70, 175);
+        text-align: center;
+    
+    }
+  body{ 
+    text-align: center;
+        /* display:flex;
+        justify-content: center;
+        align-items: center; */
+        background-color: #C9BBFF;
+        background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='32' height='32' viewBox='0 0 200 200'%3E%3Cpolygon fill='%23DCEFFA' points='100 0 0 100 100 100 100 200 200 100 200 0'/%3E%3C/svg%3E");
+     }
+  button{
+    width: 165px;
+    height: 62px;
+    cursor:pointer;
+    color: #fff;
+    font: size 17px; 
+    border-radius: 1rem;
+    border: none;
+    position: relative;
+    background:#6846a2;
+    transition: 0.1s;
+        }
+
+    .nav {
+        background-color: rgb(181, 99, 216);
+
+    }
+
+        
